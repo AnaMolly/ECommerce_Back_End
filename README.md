@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This project is the back-end portion of an e-commerce wesbite. It utilizes Express.js, Sequelize and MySQL database to relay information about products, categories and tags. The API routes included in this application enables CRUD operations.
+  This project is the back-end portion of an e-commerce website. It utilizes Express.js, Sequelize and MySQL database to relay information about products, categories and tags. The API routes included in this application enables CRUD operations.
   ![]()
 
   # Table of Contents
